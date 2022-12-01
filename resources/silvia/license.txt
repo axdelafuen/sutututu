@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nissan Silvia S15
+* source:	https://sketchfab.com/3d-models/nissan-silvia-s15-303d09ecd51643dda8512a9d55e4271e
+* author:	LePoint_BAT (https://sketchfab.com/LePointBAT)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nissan Silvia S15" (https://sketchfab.com/3d-models/nissan-silvia-s15-303d09ecd51643dda8512a9d55e4271e) by LePoint_BAT (https://sketchfab.com/LePointBAT) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
